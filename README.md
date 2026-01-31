@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rahma Elmorsi
+# Hi there 👋 I'm Rahma Mostafa
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RahmaElmorsi/RahmaElmorsi/output/github-contribution-grid-snake.gif" alt="snake" />
