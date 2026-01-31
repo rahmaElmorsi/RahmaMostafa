@@ -1,7 +1,8 @@
-## Hi there 👋
+# Hi there 👋 I'm Rahma Elmorsi
 
-![snake gif](https://github.com/RahmaElmorsi/RahmaElmorsi/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahmaElmorsi/RahmaElmorsi/output/github-contribution-grid-snake.gif" alt="snake" />
+</p>
 <!--
 **rahmaElmorsi/RahmaElmorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
